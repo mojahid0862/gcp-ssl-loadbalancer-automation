@@ -53,7 +53,7 @@ This Node.js application automates the process of creating managed SSL certifica
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/gcp-ssl-lb-automation.git
+   git clone git@github.com:mojahid0862/gcp-ssl-loadbalancer-automation.git
    cd gcp-ssl-lb-automation
    ```
 
@@ -161,8 +161,8 @@ Contributions are welcome! Please open an issue or submit a pull request.
 
 For questions or collaboration, feel free to reach out:
 
-- **Email**: your.email@example.com
-- **LinkedIn**: [Your Name](https://www.linkedin.com/in/mojahid-ul-haque/)
+- **Email**: i@mojahidhidulhaque.in
+- **LinkedIn**: [MOjahid_Ul Haque](https://www.linkedin.com/in/mojahid-ul-haque/)
 
 ---
 
